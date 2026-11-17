@@ -1,8 +1,14 @@
 # GTA VI Twitch CCU forecast — `main.py`
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/bardah26/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/bardah26/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 Forecasts the hourly Twitch viewers of Grand Theft Auto VI on its
 release day (2026-11-19 UTC), hours 2–24, as five quantiles per hour,
-from everything recorded up to the end of hour 1.
+from everything recorded up to the end of hour 1. This is an entry for
+the [make.fun bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+"Forecast GTA VI's launch-day Twitch viewers hour by hour".
 
 ## Method
 
@@ -73,3 +79,5 @@ processes every `*.in` file found (sorted by name) and writes one
   The 8 single-global-unlock launches score badly for every
   anchor-based method (2.47 vs house 3.00) and are not the target's
   regime.
+
+Entered on [make.fun](https://make.fun/bounty/gta6-twitch-ccu-forecast-01).
